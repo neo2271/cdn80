@@ -1,4 +1,2 @@
 3801503d7a05d7f4cbd97e7d1e5befde  T_Tool_v201117_02_debug.zip
-4a6597984925bd4648ce4b4fe691a9b3  T_Tool_v201117_02_update.zip
-03bcf244fbe614ee83e729a511ad3782  T_Tool_v201119_01_debug.zip
-aa0305faf44feb8cfc0d9c2f33a90449  T_Tool_v201119_01_update.zip
+c6687da61f263372dadc3b2b3360eb27  T_Tool_v201119_02_debug.zip
