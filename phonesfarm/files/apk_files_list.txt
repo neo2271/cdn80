@@ -1,3 +1,0 @@
-1e406b10eea901da1a3735bc9bbf7d95  com.alphainventor.filemanager_v2.5.6.apk
-8f161f04e761e73db92cf49b31deab30  com.ddm.iptools_v8.18.apk
-6125be3ea86f41c5ea865991545b878b  org.hola.gpslocation_v1.170.726.apk
