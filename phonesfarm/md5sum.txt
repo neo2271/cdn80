@@ -1,2 +1,2 @@
 9af0b349dd2f87e573b62615125dd451  T_Tool_v201126_01_debug.zip
-a5992e1bbfa9dd5cd4236523ecc6f58e  T_Tool_v201201_01_debug.zip
+cd2b7c7c1591f87551899a6a521fb498  T_Tool_v201208.01_debug.zip
