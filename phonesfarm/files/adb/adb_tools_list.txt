@@ -1,4 +1,13 @@
-47a6ee3f186b2c2f5057028906bac0c6  AdbWinApi.dll
-5f23f2f936bdfac90bb0a4970ad365cf  AdbWinUsbApi.dll
-775416971e2a69064b8acd575d3dff4d  adb.exe
-2f5c7248dbe051bec8ddedcf4c80a76f  fastboot.exe
+ed5a809dc0024d83cbab4fb9933d598d  AdbWinApi.dll
+0e24119daf1909e398fa1850b6112077  AdbWinUsbApi.dll
+7a11cbcf3d011d61dfc45eeea0197839  SDL2.dll
+3c774a3bdf6cf917a00954476fd1dd0b  adb.exe
+90b503ddca153bb6ff4b81f1265ef06b  avcodec-58.dll
+31280a09d9eb025aa5f60ebec973a7d0  avformat-58.dll
+fc8454e7904221b3e3c029bd81ba6f11  avutil-56.dll
+ffe96c8dfce2b88d98c30605d7566f6c  fastboot.exe
+5ec52e055adb5e47e46cf813753ca9bb  scrcpy-noconsole.exe
+079264aad2051c46859b71858ec745d4  scrcpy-server
+a2e1be1633cb3dd6a58aba4fc81169ab  scrcpy.exe
+43ebcbaf12859c5d34432ac671423dab  swresample-3.dll
+75d89c8a66fcdfb660c9dcafc140c3ea  swscale-5.dll
