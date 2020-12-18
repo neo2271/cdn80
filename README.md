@@ -9,3 +9,5 @@
     md5deep *.zip -z -l | awk '{print $2,$3,$1}'
 
     md5deep *.* -z -l | awk '{print $2,$3,$1}'
+
+    md5deep * -z -l | awk '{print $2 " | " $3 " | " $1}'
